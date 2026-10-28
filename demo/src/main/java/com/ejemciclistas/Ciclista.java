@@ -1,4 +1,4 @@
-﻿package com.ejemciclistas;
+package com.ejemciclistas;
 
 /**
  * Clase abstracta que modela un ciclista en una competencia ciclistica.

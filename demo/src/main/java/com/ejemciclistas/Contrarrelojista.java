@@ -1,4 +1,4 @@
-﻿package com.ejemciclistas;
+package com.ejemciclistas;
 
 /**
  * Subclase concreta que representa a un ciclista especialista en pruebas contra el reloj.

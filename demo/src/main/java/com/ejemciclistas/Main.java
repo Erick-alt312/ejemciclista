@@ -1,4 +1,4 @@
-﻿package com.ejemciclistas;
+package com.ejemciclistas;
 
 import java.util.Scanner;
 
