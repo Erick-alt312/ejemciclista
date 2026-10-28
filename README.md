@@ -12,8 +12,6 @@
 | :--- | :--- | :--- | :--- |
 | **Erick J. Enríquez** | Arquitectura Base, Especialidades, Gestión de Equipo, Pruebas Unitarias y Documentación | `main`, `feature/*` | [@Erick-alt312](https://github.com/Erick-alt312) |
 
-> 📌 **Nota sobre desarrollo individual:**  
-> Debido a que el proyecto fue desarrollado de forma individual, la **delegación de tareas y ramas de trabajo** se estructuró de manera modular simulando un flujo de colaboración profesional (**GitFlow**). Cada componente del sistema fue desarrollado en su propia rama de característica (`feature branch`), con sus respectivos commits atómicos y merge documentado a la rama principal `main`.
 
 ### Estructura de Ramas del Repositorio
 * `main`: Rama de producción con el código fuente estable y probado.
